@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suryanshiit
-- 👀 I’m interested in ..
+- 👀 I’m interested in GSOC
 - 🌱 I’m currently learning machine learning and competitive programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suryanshs16103@gmail.com
