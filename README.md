@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suryanshiit
+- 👋 Hi, I’m @suryansh
 - 👀 I’m interested in Computer Vision, Natural Language Processing and competitive programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suryanshs16103@gmail.com
